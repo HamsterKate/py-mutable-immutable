@@ -39,3 +39,4 @@ sorted_variables = (sort_vars(
     marks,
     collection_of_coins,
 ))
+
