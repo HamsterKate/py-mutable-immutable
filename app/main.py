@@ -28,6 +28,7 @@ def sort_vars(*args) -> dict:
             result['mutable'].append(item)
     return result
 
+
 sorted_variables = (sort_vars(
     lucky_number,
     pi,
